@@ -1,0 +1,43 @@
+{
+  "weekly": {
+    "week_start": "Mar 16, 2026",
+    "week_end": "Mar 22, 2026",
+    "summary": {
+      "total_checkins": 15,
+      "meditation_sessions": 20,
+      "journal_entries": 5
+    },
+    "improvement": {
+      "percent": 100,
+      "text": "Your wellness activity is up by 100%!"
+    },
+    "insights": [
+      "Your most frequent mood this week was 'great'.",
+      "Average stress level: 6.5/10",
+      "You've completed 20 more meditation(s) than last week!"
+    ],
+    "cta": {
+      "button_text": "View Full Analytics"
+    }
+  }
+}
+
+{
+  "monthly": {
+    "month": "March 2026",
+    "cards": {
+      "active_days": 1,
+      "consistency_percent": 5,
+      "mood_checks": 10,
+      "meditations": 20
+    },
+    "achievement": {
+      "title": "Keep Building Streak!",
+      "subtitle": "Reach 30 days to unlock",
+      "streak_days": 0
+    },
+    "cta": {
+      "button_text": "Get Next Month's Plan"
+    }
+  }
+}
